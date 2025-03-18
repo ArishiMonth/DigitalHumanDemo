@@ -1,0 +1,18 @@
+{
+    "zh-CN-XiaoxiaoNeural": {
+        "prompt_lang": "zh",
+        "gpt_path_str": "\u6653\u6653-e10.ckpt",
+        "sovits_path_str": "\u6653\u6653_e4_s48.pth",
+        "ref_audio_path": "row/voicedemo/xiaoxiao.wav",
+        "prompt_text": "贵阳是一个山清水秀与文化古韵并存的城市，欢迎大家来玩!",
+        "top_k": 10
+    },
+    "zh-CN-YunjianNeural": {
+        "prompt_lang": "zh",
+        "gpt_path_str": "\u7537\u6027\u5E7F\u64AD-e15.ckpt",
+        "sovits_path_str": "\u7537\u6027\u5e7f\u64ad_e4_s64.pth",
+        "ref_audio_path": "row/voicedemo/yunxiao.wav",
+        "prompt_text": "你好，欢迎来到云景数字人平台，在这里，你可以自定义专属于您的数字人。",
+        "top_k": 5
+    }
+}

@@ -1,0 +1,6 @@
+task_1:
+ video_path: "data/video/sun.mp4"
+ audio_path: "data/audio/sun.wav"
+ bbox_shift: -7
+  
+

@@ -1,0 +1,6 @@
+pymysql==1.1.1
+DBUtils==3.1.0
+soundfile==0.12.1
+apscheduler==3.10.4
+opencc==1.1.6
+pyjyutping

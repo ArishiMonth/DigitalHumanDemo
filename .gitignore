@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.pyc
+.ipynb_checkpoints
+models
+results/
+data/
+__pycache__/
+
+.pypirc
+build/
+dist/
+yj_tts.egg-info/
+GPT-SoVITS模型及其他数据/
+MuseTalk模型/

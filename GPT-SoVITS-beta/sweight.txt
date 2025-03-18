@@ -1,0 +1,1 @@
+SoVITS_weights/男声-广播腔_e4_s28.pth
